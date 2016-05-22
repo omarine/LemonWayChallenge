@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemonWayChallenge", "LemonWayChallenge\LemonWayChallenge.csproj", "{71C8E21B-F577-440B-AFCA-FD346F7A134D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LemonWayChallengeTests", "LemonWayChallengeTests\LemonWayChallengeTests.csproj", "{F2161018-80F7-4C1F-8D46-3ED0A99D5FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C8E21B-F577-440B-AFCA-FD346F7A134D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C8E21B-F577-440B-AFCA-FD346F7A134D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C8E21B-F577-440B-AFCA-FD346F7A134D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C8E21B-F577-440B-AFCA-FD346F7A134D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2161018-80F7-4C1F-8D46-3ED0A99D5FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2161018-80F7-4C1F-8D46-3ED0A99D5FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2161018-80F7-4C1F-8D46-3ED0A99D5FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2161018-80F7-4C1F-8D46-3ED0A99D5FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
